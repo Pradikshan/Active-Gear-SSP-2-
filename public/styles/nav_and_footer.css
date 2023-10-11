@@ -1,0 +1,36 @@
+#navbar{
+    background-color: black !important;
+}
+
+#hyperlink:hover{
+    background-color: rgb(54, 51, 51);
+}
+
+#horizontal-line{
+    background-color: rgb(54, 51, 51);
+}
+
+footer{
+    background-color: black;
+}
+
+.bg-image{
+    background-image: url('../images/cover.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.bg-main{
+    background-image: url('../images/gym.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-blend-mode:soft-light;
+}
+
+.carousel-inner {
+    height: 40rem;
+}
+  
+  
